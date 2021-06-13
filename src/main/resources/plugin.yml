@@ -1,0 +1,5 @@
+name: DRColorArcher
+version: ${project.version}
+main: drcolorarcher.DRColorArcherPlugin
+authors: [DanielRottner]
+description: DRColorArcher Plugin For DRColorArcher.
